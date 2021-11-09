@@ -1,3 +1,3 @@
-leite
-cafe
-açucar
+leite 2200
+cafe   500 
+açucar 800
